@@ -31,7 +31,7 @@
 
 ### 🎮 Mes Projets
 
-📌 **[PhotoshopLight](https://github.com/Tifeux/PhotoshopLight)** – *Un outil pour desinner avec des fonctionnalités inspirés de Photoshop*  
+📌 **[PhotoshopLight](https://github.com/Tifeux/PhotoshopLight)** – *Un outil pour dessiner avec des fonctionnalités inspirées de Photoshop*  
 📌 **[SpeechDectectionV1](https://github.com/Tifeux/SpeechDetectionV1)** – *Un outil permettant de lancer des commandes sur son ordinateur grâce à une reconnaissance vocal*  
 
 
