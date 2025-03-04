@@ -30,7 +30,7 @@
 
 ### 🎮 Mes Projets
 
-📌 **[PhotoshopLight](https://github.com/TonPseudo/NomProjet1)** – *Un outil pour desinner avec des fonctionnalités inspirés de Photoshop*  
-📌 **[Nom du projet](https://github.com/TonPseudo/NomProjet2)** – *Un outil permettant de lancer des commandes sur son ordinateur grâce à une reconnaissance vocal*  
+📌 **[PhotoshopLight]([https://github.com/Tifeux](https://github.com/Tifeux/PhotoshopLight))** – *Un outil pour desinner avec des fonctionnalités inspirés de Photoshop*  
+📌 **[SpeechDectectionV1](https://github.com/Tifeux/SpeechDetectionV1)** – *Un outil permettant de lancer des commandes sur son ordinateur grâce à une reconnaissance vocal*  
 
 
