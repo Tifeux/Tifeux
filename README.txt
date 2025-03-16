@@ -1,20 +1,20 @@
 <hr>
-<img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/about_me.jpg" width="300" align="right">
-<img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg" width="500">
-<br><br>
 
-<ul>
-  <li>🎓 <b>Student from France</b> :flag-fr:</li>
-  <li>💻 <b>Game Design & Multimedia Enthusiast</b></li>
-  <li>🔦 Interested in <b>UX/UI, Narrative Design, and Gameplay Design in Video Games</b></li>
-  <li>🐍 <b>Proficient in Python</b></li>
-  <li>🧪 I can understand and edit some code written in <b>JS/HTML/CSS</b></li>
-  <li>⚙️ Currently learning <b>C#</b></li>
-</ul>
+![About Me](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/about_me.jpg)
+![Repo](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg)
+
 <br>
 
-<img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg" width="500">
-<br><br>
+- 🎓 **Student from France** :flag-fr:
+- 💻 **Game Design & Multimedia Enthusiast**
+- 🔦 Interested in **UX/UI, Narrative Design, and Gameplay Design in Video Games**
+- 🐍 **Proficient in Python**
+- 🧪 I can understand and edit some code written in **JS/HTML/CSS**
+- ⚙️ Currently learning **C#**
+
+<br>
+
+![Repositories](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg)
 
 ### Repositories:
 
@@ -23,8 +23,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/stats.jpg" width="500">
-<br><br>
+![Statistics](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/stats.jpg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tifeux&show_icons=true&theme=radical" height="180px"/>
@@ -33,8 +32,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/tools.jpg" width="500">
-<br><br>
+![Languages & Tools](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/tools.jpg)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
