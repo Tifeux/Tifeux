@@ -1,9 +1,8 @@
 <hr>
-<div>
-  <img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/about_me.jpg" width="300" align="right">
-  <img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg" width="500">
-</div>
+<img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/about_me.jpg" width="300" align="right">
+<img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg" width="500">
 <br><br>
+
 <ul>
   <li>🎓 <b>Student from France</b> :flag-fr:</li>
   <li>💻 <b>Game Design & Multimedia Enthusiast</b></li>
