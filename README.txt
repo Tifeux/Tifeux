@@ -1,6 +1,13 @@
-- 🎓 **Student from France** :flag-fr:
-- 💻 **Game Design & Multimedia Enthusiast**
-- 🔦 Interested in **UX/UI, Narrative Design, and Gameplay Design in Video Games**
-- 🐍 **Proficient in Python**
-- 🧪 I can understand and edit some code written in **JS/HTML/CSS**
-- ⚙️ Currently learning **C#**
+# ?
+## À propos de moi
+
+Test ?
+
+## Mes projets
+
+### 1.
+Un projet 
+
+### 2. 
+Un projet
+
