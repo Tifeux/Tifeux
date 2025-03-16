@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tifeux/Tifeux/refs/heads/main/images/about_me.jpg" width="400">
 
-- 🎓 **Student from France** :flag-fr:
+- 🎓 **Student from France**
 - 💻 **Game Design & Multimedia Enthusiast**
 - 🔦 Interested in **UX/UI, Narrative Design, and Gameplay Design in Video Games**
 - 🐍 **Proficient in Python**
