@@ -1,26 +1,38 @@
-![About Me](https://raw.githubusercontent.com/Tifeux/Tifeux/refs/heads/main/images/about_me.jpg)
+<hr>
+<div>
+  <img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/about_me.jpg" width="300" align="right">
+  <img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg" width="500">
+</div>
+<br>
+<ul>
+  <li>🎓 <b>Student from France</b> :flag_fr:</li>
+  <li>💻 <b>Game Design & Multimedia Enthusiast</b></li>
+  <li>🔦 Interested in <b>UX/UI, Narrative Design, and Gameplay Design in Video Games</b></li>
+  <li>🐍 <b>Proficient in Python</b></li>
+  <li>🧪 I can understand and edit some code written in <b>JS/HTML/CSS</b></li>
+  <li>⚙️ Currently learning <b>C#</b></li>
+</ul>
+<br>
 
-- :mortar_board: **Student from France** :flag_fr:  
-- :computer: **Game Design & Multimedia Enthusiast**  
-- :flashlight: Interested in **UX/UI, Narrative Design, and Gameplay Design in Video Games**  
-- :snake: **Proficient in Python**  
-- :test_tube: **I can understand and edit some code written in JS/HTML/CSS**  
-- :gear: **Currently learning C#**  
+![Repositories](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg)
 
-:pushpin: **Note:**  
-All repositories before 2025 have been set to private.  
-I use this space to share ideas, concepts, and prototypes.  
+### Repositories:
+
+📌 **[PhotoshopLight](https://github.com/Tifeux/PhotoshopLight)** – *A drawing tool with features inspired by Photoshop*  
+📌 **[SpeechDetectionV1](https://github.com/Tifeux/SpeechDetectionV1)** – *A tool that allows voice commands to interact with your computer*  
 
 ---
 
-![Repositories](https://github.com/Tifeux/Tifeux/blob/main/images/repo.jpg)
+![Statistics](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/stats.jpg)
 
-:pushpin: **[PhotoshopLight](https://github.com/Tifeux/PhotoshopLight)** – *A drawing tool with features inspired by Photoshop*  
-:pushpin: **[SpeechDetectionV1](https://github.com/Tifeux/SpeechDetectionV1)** – *A tool that allows voice commands to interact with your computer*  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tifeux&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tifeux&layout=compact&theme=radical" height="180px"/>
+</div>
 
 ---
 
-![Languages & Tools](https://github.com/Tifeux/Tifeux/blob/main/images/tools.jpg)
+![Languages & Tools](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/tools.jpg)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,12 +41,3 @@ I use this space to share ideas, concepts, and prototypes.
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![VS Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
----
-
-![Statistics](https://github.com/Tifeux/Tifeux/blob/main/images/stats.jpg)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tifeux&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tifeux&layout=compact&theme=radical" height="180px"/>
-</div>
