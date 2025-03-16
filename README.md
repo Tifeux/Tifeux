@@ -9,6 +9,10 @@
 - 🧪 I can understand and edit some code written in **JS/HTML/CSS**
 - ⚙️ Currently learning **C#**
 
+📌 **Note:**  
+All repositories before 2025 have been set to private.  
+I use this space to share ideas, concepts, and prototypes.  
+
 <br>
 
 <img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg" width="400">
