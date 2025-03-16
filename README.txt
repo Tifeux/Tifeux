@@ -1,10 +1,5 @@
 <hr>
 
-![About Me](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/about_me.jpg)
-![Repo](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg)
-
-<br>
-
 - 🎓 **Student from France** :flag-fr:
 - 💻 **Game Design & Multimedia Enthusiast**
 - 🔦 Interested in **UX/UI, Narrative Design, and Gameplay Design in Video Games**
@@ -14,8 +9,6 @@
 
 <br>
 
-![Repositories](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg)
-
 ### Repositories:
 
 📌 **[PhotoshopLight](https://github.com/Tifeux/PhotoshopLight)** – *A drawing tool with features inspired by Photoshop*
@@ -23,16 +16,12 @@
 
 ---
 
-![Statistics](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/stats.jpg)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tifeux&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tifeux&layout=compact&theme=radical" height="180px"/>
 </div>
 
 ---
-
-![Languages & Tools](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/tools.jpg)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
