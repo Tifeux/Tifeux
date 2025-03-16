@@ -1,4 +1,4 @@
-![About Me](https://raw.githubusercontent.com/Tifeux/images/main/about_me.jpg)
+![About Me](https://raw.githubusercontent.com/Tifeux/Tifeux/refs/heads/main/images/about_me.jpg)
 
 - :mortar_board: **Student from France** :flag_fr:  
 - :computer: **Game Design & Multimedia Enthusiast**  
@@ -13,14 +13,14 @@ I use this space to share ideas, concepts, and prototypes.
 
 ---
 
-![Repositories](https://raw.githubusercontent.com/Tifeux/images/main/repo.jpg)
+![Repositories](https://github.com/Tifeux/Tifeux/blob/main/images/repo.jpg)
 
 :pushpin: **[PhotoshopLight](https://github.com/Tifeux/PhotoshopLight)** – *A drawing tool with features inspired by Photoshop*  
 :pushpin: **[SpeechDetectionV1](https://github.com/Tifeux/SpeechDetectionV1)** – *A tool that allows voice commands to interact with your computer*  
 
 ---
 
-![Languages & Tools](https://raw.githubusercontent.com/Tifeux/images/main/tools.jpg)
+![Languages & Tools](https://github.com/Tifeux/Tifeux/blob/main/images/tools.jpg)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,11 +32,9 @@ I use this space to share ideas, concepts, and prototypes.
 
 ---
 
-![Statistics](https://raw.githubusercontent.com/Tifeux/images/main/stats.jpg)
+![Statistics](https://github.com/Tifeux/Tifeux/blob/main/images/stats.jpg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tifeux&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tifeux&layout=compact&theme=radical" height="180px"/>
 </div>
-
----
