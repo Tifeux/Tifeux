@@ -1,4 +1,4 @@
-<hr>
+---
 
 - 🎓 **Student from France** :flag-fr:
 - 💻 **Game Design & Multimedia Enthusiast**
@@ -7,7 +7,7 @@
 - 🧪 I can understand and edit some code written in **JS/HTML/CSS**
 - ⚙️ Currently learning **C#**
 
-<br>
+---
 
 ### Repositories:
 
@@ -16,10 +16,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tifeux&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tifeux&layout=compact&theme=radical" height="180px"/>
-</div>
+[![Tifeux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tifeux&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tifeux&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
