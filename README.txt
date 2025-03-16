@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/about_me.jpg" width="300" align="right">
   <img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg" width="500">
 </div>
-<br>
+<br><br>
 <ul>
-  <li>🎓 <b>Student from France</b> :flag_fr:</li>
+  <li>🎓 <b>Student from France</b> :flag-fr:</li>
   <li>💻 <b>Game Design & Multimedia Enthusiast</b></li>
   <li>🔦 Interested in <b>UX/UI, Narrative Design, and Gameplay Design in Video Games</b></li>
   <li>🐍 <b>Proficient in Python</b></li>
@@ -14,16 +14,18 @@
 </ul>
 <br>
 
-![Repositories](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg)
+<img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/repo.jpg" width="500">
+<br><br>
 
 ### Repositories:
 
-📌 **[PhotoshopLight](https://github.com/Tifeux/PhotoshopLight)** – *A drawing tool with features inspired by Photoshop*  
-📌 **[SpeechDetectionV1](https://github.com/Tifeux/SpeechDetectionV1)** – *A tool that allows voice commands to interact with your computer*  
+📌 **[PhotoshopLight](https://github.com/Tifeux/PhotoshopLight)** – *A drawing tool with features inspired by Photoshop*
+📌 **[SpeechDetectionV1](https://github.com/Tifeux/SpeechDetectionV1)** – *A tool that allows voice commands to interact with your computer*
 
 ---
 
-![Statistics](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/stats.jpg)
+<img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/stats.jpg" width="500">
+<br><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tifeux&show_icons=true&theme=radical" height="180px"/>
@@ -32,7 +34,8 @@
 
 ---
 
-![Languages & Tools](https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/tools.jpg)
+<img src="https://raw.githubusercontent.com/Tifeux/Tifeux/main/images/tools.jpg" width="500">
+<br><br>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
